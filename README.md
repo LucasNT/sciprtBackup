@@ -1,4 +1,4 @@
-#Script para fazer backup de arquivos
+# Script para fazer backup de arquivos
 
 Um script para criar backups.
 
