@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ $# -lt 1 ]; then
-    echo "tem que ter um argumento, o nome do arquivo que se deseja fazer backup"
+    echo $0 [FILES]
     exit 1
 fi
 
